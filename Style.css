@@ -1,0 +1,6 @@
+section[data-testid="stSidebar"] div.stButton button {
+    background-color: rebeccapurple;
+    width: 175px;
+    height: 50px;
+
+}
