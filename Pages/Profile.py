@@ -66,6 +66,7 @@ local_css("Style.css")
 
 # Main content of the app
 menu_selection = st.sidebar.selectbox("Navigation", ["Profile", "My Investments"])
+#menu_selection = "Profile"
 
 if menu_selection == "Profile":
     profile()
